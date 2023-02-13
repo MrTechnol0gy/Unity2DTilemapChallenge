@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Terrain
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1335757552, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 1628403576, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 1316267884, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 1275630366, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: -174220536, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: -1788623725, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 184685962, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: -1308986371, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 316507201, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 598198083, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: -1059286631, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: -889890911, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 1559010370, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: -100295746, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 2004740845, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: -884537439, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: -213969320, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 2028957405, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 1277989806, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 1207790871, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: -1562261547, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 248752888, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 469332705, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 1430513374, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 136625898, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 1241935827, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: 2142868684, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  - {fileID: -2064020666, guid: cfd6d01593a36954cb519e914a8a2520, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TileMapChallenge_23
+  - TileMapChallenge_22
+  - TileMapChallenge_3
+  - TileMapChallenge_21
+  - TileMapChallenge_2
+  - TileMapChallenge_20
+  - TileMapChallenge_1
+  - TileMapChallenge_27
+  - TileMapChallenge_0
+  - TileMapChallenge_26
+  - TileMapChallenge_7
+  - TileMapChallenge_25
+  - TileMapChallenge_6
+  - TileMapChallenge_24
+  - TileMapChallenge_5
+  - TileMapChallenge_4
+  - TileMapChallenge_9
+  - TileMapChallenge_8
+  - TileMapChallenge_16
+  - TileMapChallenge_17
+  - TileMapChallenge_14
+  - TileMapChallenge_15
+  - TileMapChallenge_12
+  - TileMapChallenge_13
+  - TileMapChallenge_10
+  - TileMapChallenge_11
+  - TileMapChallenge_18
+  - TileMapChallenge_19
+  m_RenderDataMap: {}
+  m_Tag: Terrain
+  m_IsVariant: 0
